@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(189, 163, 107);
+    font-family: cursive;
+}
+h1{
+    font-size: xx-large;
+}
+img{
+    width: 750px;
+    height: 500px;
+}
+ul.navigate{
+    display: flex;
+}
+.navbar{
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(101, 54, 122);
+}
